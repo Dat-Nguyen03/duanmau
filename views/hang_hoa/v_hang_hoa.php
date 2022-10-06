@@ -2,7 +2,7 @@
 <main>
 
 <!-- breadcrumb-area -->
-<section class="breadcrumb-area breadcrumb-bg" data-background="img/bg/breadcrumb_bg01.jpg">
+<section class="breadcrumb-area breadcrumb-bg" data-background="./public/layout/img/bg/breadcrumb_bg01.jpg">
     <div class="container">
         <div class="row">
             <div class="col-12">
