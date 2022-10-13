@@ -50,6 +50,7 @@
                 </div>
             </div>
         </div>
+        <!-- render data -->
         <div class="row">
             <?php foreach($hang_hoas as $key=>$value) {?>
             <div class="col-xl-3 col-lg-4 col-sm-6">

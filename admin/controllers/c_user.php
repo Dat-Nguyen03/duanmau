@@ -32,7 +32,7 @@ class c_user {
         $m_user = new m_user();
         $user = $m_user->read_user_by_id_pass($username,$password);
         if(!empty($user)) {
-              $_SESSION['user'] = $user;
+            $_SESSION['user'] = $user;
         }
     }
 }
